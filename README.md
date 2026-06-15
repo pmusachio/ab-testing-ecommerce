@@ -92,7 +92,7 @@ and read the required sample size and power curve directly.
    ```
    streamlit run app/streamlit_app.py
    ```
-7. **Live app** — [huggingface.co/spaces/pmusachio/ab-testing-ecommerce](https://huggingface.co/spaces/pmusachio/ab-testing-ecommerce) — read the verdict and size your next test.
+7. **Live app** — [ab-testing-ecommerce.onrender.com](https://ab-testing-ecommerce.onrender.com) — read the verdict and size your next test.
 
 ## Next Steps
 
